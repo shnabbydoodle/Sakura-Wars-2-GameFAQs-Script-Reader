@@ -5,6 +5,8 @@ To be used in conjunction with Kayama's translated guide to Sakura Taisen 2
 
 Compatible with all guides with Kayama's formatting.
 
+**Run inside of a terminal that supports Japanese character encoding like the one in Visual Studio Code**
+
 ## Key binds:
 - N: Progresses to next paragraph
 - Comma: Displays current line and saves it to new file named lines.txt
